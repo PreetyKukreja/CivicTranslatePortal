@@ -1,0 +1,100 @@
+{
+  "requests": [
+    {
+      "id": "TRQ-001",
+      "title": "Patient Consent Form — Cardiology",
+      "sourceLanguage": "English",
+      "targetLanguage": "Spanish",
+      "status": "completed",
+      "priority": "high",
+      "description": "Translate patient consent form for cardiac catheterization procedure into Spanish for Houston General Hospital.",
+      "createdBy": "Maria Santos",
+      "createdAt": "2025-01-12",
+      "updatedAt": "2025-01-14"
+    },
+    {
+      "id": "TRQ-002",
+      "title": "Public Health Advisory — COVID-19 Booster",
+      "sourceLanguage": "English",
+      "targetLanguage": "Mandarin",
+      "status": "in-progress",
+      "priority": "high",
+      "description": "Urgent translation of public health advisory bulletin from the CDC regarding updated booster guidelines.",
+      "createdBy": "John Webber",
+      "createdAt": "2025-01-13",
+      "updatedAt": "2025-01-13"
+    },
+    {
+      "id": "TRQ-003",
+      "title": "Municipal Zoning Ordinance Update",
+      "sourceLanguage": "English",
+      "targetLanguage": "Vietnamese",
+      "status": "pending",
+      "priority": "medium",
+      "description": "Translation of Section 12 amendments to the City of San Jose municipal zoning code for community distribution.",
+      "createdBy": "Alice Park",
+      "createdAt": "2025-01-15",
+      "updatedAt": "2025-01-15"
+    },
+    {
+      "id": "TRQ-004",
+      "title": "Immigration Legal Aid Guide",
+      "sourceLanguage": "English",
+      "targetLanguage": "Arabic",
+      "status": "pending",
+      "priority": "high",
+      "description": "Comprehensive guide for legal aid services covering asylum application processes, required documentation, and timeline expectations.",
+      "createdBy": "David Kim",
+      "createdAt": "2025-01-15",
+      "updatedAt": "2025-01-15"
+    },
+    {
+      "id": "TRQ-005",
+      "title": "School Enrollment Package 2025",
+      "sourceLanguage": "English",
+      "targetLanguage": "Haitian Creole",
+      "status": "in-progress",
+      "priority": "medium",
+      "description": "K-12 enrollment forms, parent handbook, and emergency contact documents for Miami-Dade County School District.",
+      "createdBy": "Rosa Fernandez",
+      "createdAt": "2025-01-16",
+      "updatedAt": "2025-01-16"
+    },
+    {
+      "id": "TRQ-006",
+      "title": "Pharmacy Instructions — Insulin Protocol",
+      "sourceLanguage": "English",
+      "targetLanguage": "Portuguese",
+      "status": "completed",
+      "priority": "high",
+      "description": "Medication instruction sheet for insulin management protocol to be distributed to diabetic patients at community clinics.",
+      "createdBy": "Thomas Liu",
+      "createdAt": "2025-01-10",
+      "updatedAt": "2025-01-11"
+    },
+    {
+      "id": "TRQ-007",
+      "title": "Benefits Enrollment Notice — Medicare",
+      "sourceLanguage": "English",
+      "targetLanguage": "Korean",
+      "status": "pending",
+      "priority": "low",
+      "description": "Annual Medicare benefits enrollment notice including plan comparison tables and deadline information for 2025.",
+      "createdBy": "James Bell",
+      "createdAt": "2025-01-17",
+      "updatedAt": "2025-01-17"
+    },
+    {
+      "id": "TRQ-008",
+      "title": "Court Notice — Child Custody Hearing",
+      "sourceLanguage": "Spanish",
+      "targetLanguage": "English",
+      "status": "completed",
+      "priority": "high",
+      "description": "Official court notice requiring certified translation for child custody proceedings in Family Court, Case #FCT-2025-0047.",
+      "createdBy": "Linda Torres",
+      "createdAt": "2025-01-09",
+      "updatedAt": "2025-01-10"
+    }
+  ]
+}
