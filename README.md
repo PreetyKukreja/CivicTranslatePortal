@@ -11,7 +11,7 @@
 
 ## Overview
 
-CivicTranslate Portal is a professional Translation Request Management Dashboard. It allows clients to submit translation requests and administrators to track, manage, and update their status — built for government agencies and healthcare providers handling critical multilingual document workflows.
+CivicTranslate Portal is a professional Translation Request Management Dashboard. It allows clients to submit translation requests and administrators to track, manage, and update their status. It is built for government agencies and healthcare providers handling critical multilingual document workflows.
 
 ---
 
